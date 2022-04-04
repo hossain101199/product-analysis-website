@@ -7,7 +7,7 @@ const Reviews = () => {
   return (
     <div className="commetcontainer">
       {Reviw.map((Reviw) => (
-        <Reviewcard Reviw={Reviw}></Reviewcard>
+        <Reviewcard key={Reviw.id} Reviw={Reviw}></Reviewcard>
       ))}
     </div>
   );
