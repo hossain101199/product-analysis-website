@@ -1,11 +1,14 @@
 import React from "react";
-import { Line } from "recharts";
-
+import { Link } from "react-router-dom";
+import "./NotFound.css";
 const NotFound = () => {
   return (
     <div className="notfound">
       <h1>404</h1>
-      <img src="./img/iStock-1142986365.jpg" alt="" />
+      <h5>PAGE NOT FOUND</h5>
+      <Link to="/HOME">
+        <button>GO BACK HOME</button>
+      </Link>
     </div>
   );
 };
