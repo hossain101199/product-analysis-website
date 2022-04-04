@@ -1,9 +1,16 @@
 import React from "react";
+import Areachart from "../Charts/Areachart";
+import Lchart from "../Charts/Lchart";
 
 const Dashboard = () => {
   return (
     <div>
-      <h1>this is Dashboard</h1>
+      <div>
+        <Areachart></Areachart>
+      </div>
+      <div>
+        <Lchart></Lchart>
+      </div>
     </div>
   );
 };

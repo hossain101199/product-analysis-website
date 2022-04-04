@@ -1,0 +1,43 @@
+.banner {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: auto auto;
+  margin: 20px;
+  justify-content: space-around;
+}
+.banner-left {
+  max-width: 400px;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}
+.banner-left h1 {
+  font-size: 60px;
+}
+.banner-right {
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+}
+.banner-right img {
+  max-width: 100%;
+}
+.banner-left button {
+  outline: 0;
+  font-size: 18px;
+  padding: 10px 30px;
+  background-color: orange;
+  color: white;
+  border: 4px solid orange;
+  cursor: pointer;
+  transition: 0.3s linear;
+}
+.banner-left button:hover {
+  background-color: transparent;
+  color: black;
+}
+@media only screen and (max-width: 600px) {
+  .banner {
+    grid-template-columns: auto;
+  }
+}

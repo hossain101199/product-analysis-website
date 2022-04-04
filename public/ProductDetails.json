@@ -1,0 +1,98 @@
+[
+  {
+    "id": "001",
+    "index": 0,
+    "price": "$2,457.40",
+    "picture": "./data-images/beech-mushrooms1.jpg",
+    "name": "beech-mushrooms",
+    "about": "Characteristics: Cooked, these crunchy brown-capped clusters are crunchy with a sweet nuttiness. Raw, however, they taste bitter."
+  },
+  {
+    "id": "002",
+    "index": 1,
+    "price": "$1,778.96",
+    "picture": "./data-images/black-trumpet-mushrooms-2.jpg",
+    "name": "black-trumpet-mushrooms",
+    "about": "Characteristics: This wavy fungi is a late-summer find in the Midwest and East and grows all winter in the West. Black trumpets have a rich, smoky flavor and notes of a black truffle mushroom when dried."
+  },
+  {
+    "id": "003",
+    "index": 2,
+    "price": "$3,870.99",
+    "picture": "./data-images/button-mushroom-3.jpg",
+    "name": "button-mushroom",
+    "about": "Characteristics: The most common and mildest-tasting mushroom around. Ninety percent of the mushrooms we eat are this variety. Less intensely flavored than many of its more exotic kin, it can be eaten either raw or cooked, and works well in soups and salads, and on pizzas."
+  },
+  {
+    "id": "004",
+    "index": 3,
+    "price": "$3,402.97",
+    "picture": "./data-images/chanterelle-mushrooms-4.jpg",
+    "name": "chanterelle-mushrooms",
+    "about": "Characteristics: Trumpet-like, with a depression in the center of its cap, the chanterelle is one of the most popular wild mushrooms. (Because they're notoriously difficult to cultivate, chanterelles are usually foraged in the wild.) Golden-hued, fleshy and firm, they're described as having an apricot-like scent. They're common in many European cuisines, including French and Austrian, and are also native to the United States. They are particularly abundant in the West and Pacific Northwest from September into the cold months."
+  },
+  {
+    "id": "005",
+    "index": 4,
+    "price": "$2,218.86",
+    "picture": "./data-images/cremini-mushrooms-5.jpg",
+    "name": "cremini-mushrooms",
+    "about": "Characteristics: A crimino is a young portobello. Although the crimino is darker, firmer and more flavorful than its cousin the white button mushroom, the two can be used interchangeably. Increasingly, retailers hoping to capitalize on the popularity of the portabellos are selling crimini mushrooms as baby bellas."
+  },
+  {
+    "id": "006",
+    "index": 5,
+    "price": "$2,014.67",
+    "picture": "./data-images/enoki-mushrooms-6.jpg",
+    "name": "enoki-mushrooms",
+    "about": "Characteristics: The edible variety of these mushrooms feature small, shiny white caps attached to thin stems and possess a distinctive crunch. They're good raw. In the wild, they grow on Chinese Hackberry trees, ash trees, mulberry trees, and persimmon trees."
+  },
+  {
+    "id": "007",
+    "index": 6,
+    "price": "$2,794.33",
+    "picture": "./data-images/hedgehog-mushrooms-7.jpg",
+    "name": "hedgehog-mushrooms",
+    "about": "Characteristics: With a sweet smell and taste, it makes sense that this mushroom is also called the 'sweet tooth' (unless the mushroom is older — then it can take on a bitter flavor). Crunchy, nutty and meaty, this mushroom tastes very similar to a chanterelle. This hardy mushroom grows in the winter on the West Coast."
+  },
+  {
+    "id": "008",
+    "index": 7,
+    "price": "$2,956.74",
+    "picture": "./data-images/king-trumpet-mushrooms-8.jpg",
+    "name": "king-trumpet-mushrooms",
+    "about": "Characteristics: It's all about the thick, meaty stem on this jumbo mushroom"
+  },
+  {
+    "id": "009",
+    "index": 8,
+    "price": "$2,871.21",
+    "picture": "./data-images/maitake-mushrooms-9.jpg",
+    "name": "maitake-mushrooms",
+    "about": "Characteristics: From afar, this mushroom can look like a head of cabbage. Cultivated, as well as found in the woods, these mushrooms are often sold in clusters with their soft, feathery caps overlapping. This mushroom has an earthy aroma and a gamy flavor, and is native to both the northwestern United States and Japan. They grow wild east of the Mississippi River in August and September."
+  },
+  {
+    "id": "010",
+    "index": 9,
+    "price": "$3,750.07",
+    "picture": "./data-images/morel-mushrooms-10.jpg",
+    "name": "morel-mushrooms",
+    "about": "Characteristics: A fleeting springtime treat in the Midwest and West. You can't mistake its conical, spongy look and woodsy flavor."
+  },
+  {
+    "id": "011",
+    "index": 10,
+    "price": "$1,092.10",
+    "picture": "./data-images/oyster-mushroom-11.jpg",
+    "name": "oyster-mushroom",
+    "about": "Characteristics: Although these can be found in the wild growing on the sides of trees, the ones you'll find in the store or on a menu are most likely cultivated. Like their namesakes, they're whitish in color and fan-shaped, and possess a delicate odor and flavor. Oyster mushrooms are found in many Japanese and Chinese dishes such as soups and stir-fries."
+  },
+  {
+    "id": "012",
+    "index": 11,
+    "price": "$2,542.72",
+    "picture": "./data-images//porcini-mushroom-12.jpg",
+    "name": "porcinis-mushroom",
+    "about": "Characteristics: Slightly reddish-brown in color, porcini are one of the most prized wild mushrooms, sought out for their smooth texture and aromatic, woodsy flavor. They're popular in Italy, as well as in France, where they're called cèpes. Fresh porcinis aren't as easy to locate in the United States, but dried ones are easily reconstituted by soaking in hot water. Prized in Italy, these have a brief summer season in the East and pop up in the spring and fall on the West Coast."
+  }
+]
